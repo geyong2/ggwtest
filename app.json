@@ -1,7 +1,7 @@
 { 
-  "name": "Gost",
-  "description": "Deploy Gost to Heroku.",
-  "keywords": ["Gost"],
+  "name": "ggwtest",
+  "description": "ggwtest",
+  "keywords": ["ggwtest"],
   "env": {
     "METHOD": {
        "description": "Encryption method, null by default(table), the following methods are supported: aes-128-cfb, aes-192-cfb, aes-256-cfb, bf-cfb, cast5-cfb, des-cfb, rc4-md5, rc4-md5-6, chacha20, salsa20, rc4, table.",
